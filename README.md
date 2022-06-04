@@ -6,7 +6,7 @@ User and Bank Account Control
 
 1. Clone this repository.
 
-2. run npm install to install the dependencies.
+2. run "npm install" to install the dependencies.
 
 3. In the project directory, you can run "npm start" to run the app in the development mode.
 
